@@ -44,12 +44,9 @@ I will update the following rubric with your grade after you have completed the 
 ### Rubric:
 | Exercise #            | Points Awarded | Notes |
 | --------------------- | -------------------------- | ----- |
-| 1a: SVC Default       |        /0.5|    |
-| 1b: SVC Tuned         |        /0.5|    | 
-| 2a: Perceptron Default|        /0.5|    |
-| 2b: Perceptron Tuned  |        /0.5|    | 
-| 3a: SGD Default       |       /0.5 |    |
-| 3b: SGD Tuned         |       /0.5 |    |
-| 4: PCA                |          /1|    |
-| 5: Conclusions        |          /1|    |
-| <b>Total              |    /5  | </b>   |
+| 1: SVC Default and Tuned        |        /1|    |
+| 2: Perceptron Default and Tuned |        /1|    |
+| 3: SGD Default and Tuned        |        /1|    |
+| 4: PCA                          |        /1|    |
+| 5: Conclusions                  |        /1|    |
+| <b>Total                        |        /5| </b>   |
